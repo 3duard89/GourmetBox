@@ -1,5 +1,5 @@
 //javascript que realiza las funciones necesarias para eliminar o modificar un producto
-import * as bd from "../scripts/scriptBD.js";
+import * as bd from "../scripts/scriptBD - json.js";
 
 //funcion que permite mostrar el modal despues de una operacion de editar usuario, modificar, crear o eliminar producto.
 import {mostrarModalConfirmacion} from "../scripts/scriptModificandoUsuario.js";

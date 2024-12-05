@@ -2,7 +2,7 @@
 import {carritoCantidadAgregadaNavbar} from './manipulacionNavbar.js';
 
 //javascript que realiza las funciones necesarias para traer todos los productos
-import * as bd from "../scripts/scriptBD.js";
+import * as bd from "../scripts/scriptBD - json.js";
 
 const menu = await bd.obtenerBaseDatos();
 console.log(menu);

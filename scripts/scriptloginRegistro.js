@@ -3,7 +3,7 @@
 //validaciones de los campos requeridos y almacenándolos en baseDatos.json
 
 //javascript que realiza las funciones necesarias para eliminar o modificar un usuario
-import * as bd from "../scripts/scriptBD.js";
+import * as bd from "../scripts/scriptBD - json.js";
 import { datosUsuario } from "./scriptloginIngresando.js";
 
 /* variables para modificar los estilos de las ventanas de los formularios login y registro */

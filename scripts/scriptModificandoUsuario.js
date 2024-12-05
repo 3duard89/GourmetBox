@@ -1,5 +1,5 @@
 //javascript que realiza las funciones necesarias para modificar un usuario
-import * as bd from "../scripts/scriptBD.js";
+import * as bd from "../scripts/scriptBD - json.js";
 
 import {formularioInfoUsuario , formularioInfoAdmin, tipoUsuario, 
         botonCerrarSesionAdmin, botonCerrarSesionUsuario, cargarDatosUsuario , datosUsuario} 

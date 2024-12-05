@@ -4,7 +4,7 @@
 //el indice 0 es el perfil de un usuario, y el indice 1 es el perfil de un administrador
 
 //javascript que realiza las funciones necesarias para modificar un usuario
-import * as bd from "../scripts/scriptBD.js";
+import * as bd from "../scripts/scriptBD - json.js";
 
 //importar la funcion para mostrar la cantidad de productos agregados si la tiene
 import { carritoCantidadAgregadaNavbar, cantidadCarritoIcono } from "./manipulacionNavbar.js";
